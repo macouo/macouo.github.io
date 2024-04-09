@@ -29,7 +29,7 @@ h1{
     left:120px;
     top: 0;
     line-height: 80px;
-    background-image: url(images/LOGO.png);
+    background-image: url(LOGO.png);
     background-repeat: no-repeat;
     background-position:90px;
     width: 200px;
@@ -62,7 +62,7 @@ header a:hover{
     background-color: #d9ecec;
     color: rgb(255, 255, 255);
     height:90vh;
-    background-image: url(images/coffee\ shop3.jpg);
+    background-image: url(coffee\ shop3.jpg);
     background-repeat:no-repeat;
     background-position:top;
     background-size:100% 100%;
